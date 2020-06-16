@@ -8,6 +8,9 @@ A collection of resources, datasets, links, and general information regarding CO
 
 ## Resources
 
+Covid19 Data Collection - The purpose of this repository is to document Covid19 related data collections hosted at TACC.
+https://github.com/weijiax/covid19_data
+
 Dataset of daily tweets about Covid-19 pandemic on spanish
 https://github.com/apermuy/Emotions-and-affective-analysis-on-twitter-Spanish
 
